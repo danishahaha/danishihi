@@ -9,5 +9,5 @@ It also saves the message into a text file (`note_for_nisha.txt`).
 
 ### 1. Clone this repo
 ```bash
-git clone https://github.com/YOUR-USERNAME/animated-note.git
+git clone https://github.com/danishahaha/danishihi.git
 cd animated-note
